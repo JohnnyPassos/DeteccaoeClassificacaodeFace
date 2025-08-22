@@ -1,0 +1,10 @@
+# Ignorar arquivos de dados grandes e modelos treinados
+*.npz
+*.pkl
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/

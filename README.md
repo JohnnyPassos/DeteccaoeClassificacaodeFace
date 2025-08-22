@@ -28,4 +28,4 @@ O sistema foi bem-sucedido em detectar e classificar as faces/rostos conhecidos.
 ## Exemplo de Resultado
 *(Recomendado: Adicione a imagem do resultado aqui, seguindo as instruções que conversamos anteriormente.)*
 
-![Resultado do Reconhecimento Facial] __results___5_1.png
+![Resultado do Reconhecimento Facial] (__results___5_1.png)

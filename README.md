@@ -26,6 +26,6 @@ O sistema foi bem-sucedido em detectar e classificar as faces/rostos conhecidos.
 É importante notar que, para diferenciar com eficiência os rostos conhecidos de outros rostos desconhecidos, é fundamental treinar a base de dados com exemplos de faces desconhecidas.
 
 ## Exemplo de Resultado
-*(Recomendado: Adicione a imagem do resultado aqui, seguindo as instruções que conversamos anteriormente.)*
 
-![Resultado do Reconhecimento Facial] (__results___5_1.png)
+![Resultado do Reconhecimento Facial] <img width="841" height="658" alt="__results___5_1" src="https://github.com/user-attachments/assets/34abc363-2a99-452e-9843-32b4ee1928f8" />
+

@@ -1,0 +1,6 @@
+tensorflow
+mtcnn
+scikit-learn
+opencv-python
+matplotlib
+Pillow
